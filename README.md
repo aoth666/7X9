@@ -4,4 +4,6 @@
 
 • cd 7X9
 
-ithubipnstall
+• pip install -r requirements.txt
+
+• python 7X9.py
